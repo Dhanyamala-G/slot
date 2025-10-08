@@ -36,59 +36,84 @@ Execute the program using runserver command.
      <img src="/logo.png" height="150" width="800">
      </center>
       <h3 align="center">  SLOT TIME TABLE - STUDENT NAME ( ROLL NO. ) </h3>
-        <table align="center" border="5" cellpadding="6" cellspacing="2" bgcolor="cyan">
-        <tr>
-          <th bgcolor="yellow">Day</th>    
-          <th bgcolor="yellow">8-10</th>
-          <th bgcolor="yellow">10-12</th>
-          <th bgcolor="yellow">12-1</th>
-          <th bgcolor="yellow">1-3</th>
-          <th bgcolor="yellow">3-5</th>
-        </tr>
-        <tr>
-           <th bgcolor="yellow">MONDAY </th>
-           <td>FREE SLOT  </td>
-           <td>WEB APP    </td>
-           <td rowspan="6">L<br>U<br>N<br>C<br>H </td>
-           <td>PYTHON     </td>
-           <td>FREE SLOT  </td>
-        </tr>
-        <tr>
-            <th bgcolor="yellow">TUESDAY  </th>
-            <td>FREE SLOT </td>
-            <td>STATISTICS</td>
-            <td>ENGLISH   </td>
-            <td>FREE SLOT </td>
-         </tr> 
+       <table border="8"  bgcolor="black"  height="200" width="800" cellspacing="5" cellpadding="10" align="center">
+    <tr>
+        <th><font color="white"> DAY</font></th>
+        <th> <font color="white">8:00 to 10:00</font></th>
+        <th> <font color="white">10:00 to 12:00</font></th>
+        <th><font color="white">1:00 to 3:00</font></th>
+        <th> <font color="white">3:00 to 5:00</font></th>
+    </tr>
+
+<tr>
+     <th><font color="white"  size="5">MONDAY</font></th>
+    <td><font color="white">C-Programming</font></td>
+    <td><font color="white"> - </font></td>
+    <td><font color="white">C-Programming </font></td>
+    <td> <font color="white">Web Development</font></td>
+</tr>
+<tr>
+     <th><font color="white"  size="5">TUESDAY</font></th>
+    <td><font color="white">Web Development </font></td>
+    <td><font color="white">-</font></td>
+     <td><font color="white">-</font></td>
+     <td><font color="white">Web Development</font> </td>
+</tr>
+<tr>
+    <th><font color="white"  size="5">WEDNESDAY</font></th>
+    <td><font color="white">Machine Learning</font> </td>
+    <td><font color="white">Web Development</font></td>
+    <td><font color="white">Mentor Meet</font></td>
+    <td><font color="white">C-Programming</font></td>
+</tr>
+<tr>
+     <th><font color="white"  size="5">THURSDAY</font></th>
+    <td><font color="white">-</font></td>
+    <td><font color="white">-</font></td>
+    <td><font color="white">Machine Learning </font></td>
+    <td><font color="white">C-Programming</font></td>
+</tr>
+
+<tr>
+    <th><font color="white"  size="5">FRIDAY</font></th>
+ <td><font color="white">Web Development</font></td>
+<td><font color="white">-</font></td>
+<td><font color="white">Machine Learning </font></td>
+<td><font color="white">-</font></td>    
+</tr>
+
+<tr>
+    <th><font color="white"  size="5">SATURDAY</font></th>
+   <td><font color="white">-</font></td>  
+   <td><font color="white">Machine Learning </font></td>
+   <td><font color="white">Machine Learning </font></td>
+   <td><font color="white">C-Programming</font></td>
+</tr>
+</table>
+<br> 
+        <table border="3" cellpadding="7" cellspacing="2" align="center">
          <tr>
-            <th bgcolor="yellow">WEDNESDAY </th>
-            <td>FREE SLOT </td>
-            <td>FREE SLOT </td>
-            <td>MENTOR    </td>
-            <td>FREE SLOT </td>
-         </tr> 
-         <tr>
-            <th bgcolor="yellow">THURSDAY  </th>
-            <td>MACHINE   </td>
-            <td>STATISTICS</td>
-            <td>ENGLISH   </td>
-            <td>FREE SLOT </td>
+           <th><h4>S.NO</h4></th>    
+           <th><h4>SUBJECT CODE </h4></th>
+           <th><h4>SUBJECT NAME </h4></th>
          </tr>
+         <tr>
+            <th>1.</th>
+            <td>19AI410</td>
+            <td>MACHINE LEARNING </td>
+         </tr>
+         <tr>
+             <th>2.</th>
+             <td>19AI414</td>
+             <td>WEB APPLICATION DEVELOPMENT  </td>
+          </tr> 
           <tr>
-            <th bgcolor="yellow">FRIDAY    </th>
-            <td>MACHINE   </td>
-            <td>PYTHON    </td>
-            <td>C PROGRAM  </td>
-            <td>FREE SLOT </td>
-         </tr>
-         <tr>
-            <th bgcolor="yellow">SATURDAY  </th>
-            <td>STATISTICS</td>
-            <td>C PROGRAM  </td>
-            <td>FREE SLOT </td>
-            <td>WEB  APP  </td>
-         </tr>
-        </table>
+             <th>3.</th>
+             <td>19AI304</td>
+             <td>FUNDAMENTALS OF C PROGRAMMING</td>
+          </tr> 
+          
+         </table>   
         <br> 
         <table border="5" cellpadding="7" cellspacing="2" align="center">
          <tr>
@@ -131,7 +156,7 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-<img width="837" height="796" alt="image" src="https://github.com/user-attachments/assets/f3d65159-fffe-4c23-afd3-d47e8da2fa90" />
+<img width="969" height="839" alt="image" src="https://github.com/user-attachments/assets/5e2c9779-c0ce-4624-8294-564387c3f886" />
 
 
 ## RESULT
